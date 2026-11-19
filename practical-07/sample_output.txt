@@ -1,0 +1,16 @@
+PS C:\Users\Student\cpp-practicals> g++ practical7.cpp -o practical7
+PS C:\Users\Student\cpp-practicals> .\practical7.exe
+----- COMPILE TIME POLYMORPHISM -----
+Student Name: Satinderpal Singh Chaney
+Roll Number: E26B00S2034 ----- FUNCTION OVERLOADING -----
+Addition of Integers: 30
+Addition of Decimal Numbers: 31
+----- OPERATOR OVERLOADING -----
+First Complex Number: 3 + 4i
+Second Complex Number: 5 + 6i
+Addition of Complex Numbers:
+8 + 10i
+Function Overloading Demonstrated!
+Operator Overloading Demonstrated!
+Program executed successfully.
+PS C:\Users\Student\cpp-practicals>
